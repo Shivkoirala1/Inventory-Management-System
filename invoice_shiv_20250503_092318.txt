@@ -1,0 +1,7 @@
+Customer: shiv
+Date: 2025-05-03 09:23:18
+
+Product: Sunscreen (Aqualogica)
+Quantity Purchased: 10
+Free Items Given: 3
+Total Amount: 14000.0 Rs
