@@ -22,7 +22,10 @@ def read_product_file(file_path):
         print("Error:", e)
         return []
 
-# Test reading function
+
+
+# Test reading function 
+# This function reads the content of the text file
 if __name__ == "__main__":
     products = read_product_file("products.txt")
     print("Available Products:\n*********************************************")
