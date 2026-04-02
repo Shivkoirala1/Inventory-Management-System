@@ -3,7 +3,6 @@ from operation import apply_pricing_policy, process_sale, restock_product
 from write import generate_invoice, generate_restock_invoice
 
 # Load product data
-# This file contains main file
 product_list = read_product_file("products.txt")
 product_list = apply_pricing_policy(product_list)
 
