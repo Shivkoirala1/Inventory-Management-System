@@ -6,6 +6,8 @@ from write import generate_invoice, generate_restock_invoice
 product_list = read_product_file("products.txt")
 product_list = apply_pricing_policy(product_list)
 
+
+
 def main():
     """Main function to handle transactions."""
     while True:
